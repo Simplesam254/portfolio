@@ -86,6 +86,7 @@ p {
 	transition: 0.3s ease background-color;
 }
 #header .nav-bar {
+
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
