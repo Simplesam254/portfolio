@@ -1,6 +1,6 @@
         ###* Rex Design Ke *###
 
-#This is a portfolio website made for Lennox Otieno
+#This portfolio website was made for Lennox Otieno.
 
 WhatsApp me on +254716207987
 
